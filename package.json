@@ -98,7 +98,7 @@
     "googleapis": "67.1.1",
     "ibm-watson": "6.1.1",
     "node-wav": "0.0.2",
-    "os-name": "4.0.1",
+    "os-name": "5.1.0",
     "pretty-bytes": "5.6.0",
     "pretty-ms": "7.0.1",
     "react": "18.2.0",
